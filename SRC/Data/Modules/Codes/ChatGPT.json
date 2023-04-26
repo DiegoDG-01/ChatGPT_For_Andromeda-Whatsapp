@@ -1,0 +1,23 @@
+{
+  "Lang": "English",
+
+  "English": {
+    "/gpt": {
+      "Desc": ["Communication with the GPT API"],
+      "Args": [
+        {
+          "-d": "Command Description",
+          "-l": "List command arguments",
+          "-s": "Communication with the GPT using speech",
+          "-t": "Communication with the GPT using text"
+        }
+      ]
+    }
+  },
+  "Spanish": {
+    "/gpt": {}
+  },
+  "French": {
+    "/gpt": {}
+  }
+}

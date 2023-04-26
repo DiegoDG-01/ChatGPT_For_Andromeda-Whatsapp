@@ -1,0 +1,14 @@
+{
+  "success": {
+
+  },
+
+  "error": {
+    "API_Not_Valid": "The API is not valid",
+    "API_Not_Found": "The API is not found",
+    "API_Not_Access": "The API is not access",
+    "ServiceUnavailable": "The server is out of service",
+    "InvalidRequest": "The request is invalid",
+    "InvalidParameter": "The parameter is invalid"
+  }
+}
